@@ -9,5 +9,5 @@ spec:
     requests:
       storage: 500Mi
   volumeName: vol
-  storageClassName: manual
+  storageClassName: slow
   volumeMode: Filesystem
