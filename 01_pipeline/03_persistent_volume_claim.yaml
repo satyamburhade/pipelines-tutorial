@@ -9,5 +9,5 @@ spec:
     requests:
       storage: 1Gi
   volumeName: vol
-  storageClassName: slow
+  storageClassName: manual
   volumeMode: Filesystem
